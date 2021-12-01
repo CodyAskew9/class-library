@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/class-library/static/css/main.755d02c7.chunk.css",
+    "main.js": "/class-library/static/js/main.c5597962.chunk.js",
+    "main.js.map": "/class-library/static/js/main.c5597962.chunk.js.map",
+    "runtime-main.js": "/class-library/static/js/runtime-main.c66f7974.js",
+    "runtime-main.js.map": "/class-library/static/js/runtime-main.c66f7974.js.map",
+    "static/js/2.ff91f23f.chunk.js": "/class-library/static/js/2.ff91f23f.chunk.js",
+    "static/js/2.ff91f23f.chunk.js.map": "/class-library/static/js/2.ff91f23f.chunk.js.map",
+    "static/js/3.929aac6f.chunk.js": "/class-library/static/js/3.929aac6f.chunk.js",
+    "static/js/3.929aac6f.chunk.js.map": "/class-library/static/js/3.929aac6f.chunk.js.map",
+    "index.html": "/class-library/index.html",
+    "static/css/main.755d02c7.chunk.css.map": "/class-library/static/css/main.755d02c7.chunk.css.map",
+    "static/js/2.ff91f23f.chunk.js.LICENSE.txt": "/class-library/static/js/2.ff91f23f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/class-library/static/media/inaki-del-olmo-NIJuEQw0RKg-unsplash.22616d46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c66f7974.js",
+    "static/js/2.ff91f23f.chunk.js",
+    "static/css/main.755d02c7.chunk.css",
+    "static/js/main.c5597962.chunk.js"
+  ]
+}
