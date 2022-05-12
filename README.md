@@ -1,3 +1,6 @@
+This is a Library App I made for a third grade class so that the students can borrow books form the classroom and the teacher can keep track.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
